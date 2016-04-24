@@ -28,6 +28,16 @@ LinkedIn, and GitHub can be  indicators of their levels from different perspecti
 
 Dynamic recommendation system
 
+## Ideas
+
+1. __P(__ proj | people __)__
+2. Based on clustering (__Kmeans__), different people are clustered together.
+
+### NTM
+
+
+
+
 
 
 ## Evaluation
