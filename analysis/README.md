@@ -35,6 +35,7 @@ Dynamic recommendation system
 
 ### NTM
 
+1. Word Embedding
 
 
 
