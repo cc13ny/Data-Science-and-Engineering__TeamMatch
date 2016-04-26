@@ -31,7 +31,8 @@ Dynamic recommendation system
 ## Ideas
 
 1. __P(__ proj | people __)__: project recommendation.
-2. __P(__ proj1, proj2 | people __)__: team matching
+2. __P(__ proj2, proj3, ... | proj1, people1 __)__: team matching [personal perspective]
+3. team matching [global perspective] [Same as Nash Point in Game Theory]
 3. Based on clustering (__Kmeans__), different people are clustered together.
 
 ### NTM
