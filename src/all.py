@@ -1,10 +1,23 @@
+import random
+
 class Member(object):
     def __init__(self, uid):
         self.uid = uid
-        self.score = 100
+        self.score = random.randint(0, 100)
+
+class Platform(object):
+    def __init__(self):
+        self.members = []
+        self.current_uid = 0
     
-    def adjust_score(self, val):
-        self.score += val
+    def add_memb(self):
+        m = self.members
+        self.current_uid += 1
+        c = self.current_uid
+        m.append(Member(c))
+    
+    def match(self):
+        pass
     
 ''' 
 class Member(object):
