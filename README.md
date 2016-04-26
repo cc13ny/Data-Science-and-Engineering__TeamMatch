@@ -1,5 +1,7 @@
 # TeamMatch
 
-1. Collaborative Filtering
+1. Scoring System
 
-2. Bayesian Network
+2. Matching System
+
+3. Machine Learning (Evolving System based on Statistics)
