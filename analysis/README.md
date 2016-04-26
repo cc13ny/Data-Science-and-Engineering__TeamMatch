@@ -4,6 +4,8 @@ It's more about __Design__ and __Modeling__.
 
 It should be a supervised-learning and envolving system which can ajust the parameters (i.e. weights) assigned initially by our experiences. The system should also be able to learn anyone lying or not having enough evaluations on himself/herself based on statistics, or even to generate any assumptions, inductions or decisions to handle such things (too advanced, no needs at first time, but later).
 
+Actually, it's resource managment system similar to os, cloud, etc. It's based on what you want to optimize
+
 # Features
 
 1. tech stack you feel interested
@@ -55,6 +57,8 @@ Dynamic recommendation system
 
 # Resources
 
-## Scoring System
+## Scoring System / Achievement System
 
 1. [Achievement System](http://www.bittiger.io/classpage/t7zecYW24YRoWpL5h)
+2. [SlideShare: Achievement System Explained](http://www.slideshare.net/Leyart1/achievement-systems-explained)
+3. [Framework for Designing and Evaluating Game Achievement](http://www.slideshare.net/JuhoHamari/framework-for-designing-and-evaluating-game-achievements)
