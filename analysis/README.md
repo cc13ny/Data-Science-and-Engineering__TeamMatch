@@ -38,6 +38,13 @@ Dynamic recommendation system
 
 1. Word Embedding
 
+## List
+
+1. Graph Learning
+2. Bayesian Network/ Markovian Random Field
+3. Collaborative Filtering
+4. Deep Learning
+
 
 
 
