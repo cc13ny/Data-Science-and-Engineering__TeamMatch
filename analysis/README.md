@@ -30,8 +30,9 @@ Dynamic recommendation system
 
 ## Ideas
 
-1. __P(__ proj | people __)__
-2. Based on clustering (__Kmeans__), different people are clustered together.
+1. __P(__ proj | people __)__: project recommendation.
+2. __P(__ proj1, proj2 | people __)__: team matching
+3. Based on clustering (__Kmeans__), different people are clustered together.
 
 ### NTM
 
