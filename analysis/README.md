@@ -44,9 +44,6 @@ Dynamic recommendation system
 2. Bayesian Network/ Markovian Random Field
 3. Collaborative Filtering
 4. Deep Learning
-
-
-
-
+5. Game Theory
 
 ## Evaluation
