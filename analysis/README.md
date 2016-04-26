@@ -1,5 +1,9 @@
 It's more about __Design__ and __Modeling__.
 
+# Description
+
+It should be a supervised-learning and envolving system which can ajust the parameters (i.e. weights) assigned initially by our experiences. The system should also be able to learn anyone lying or not having enough evaluations on himself/herself based on statistics, or even to generate any assumptions, inductions or decisions to handle such things (too advanced, no needs at first time, but later).
+
 # Features
 
 1. tech stack you feel interested
