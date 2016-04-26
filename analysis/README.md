@@ -59,6 +59,6 @@ Dynamic recommendation system
 
 ## Scoring System / Achievement System
 
-1. [Achievement System](http://www.bittiger.io/classpage/t7zecYW24YRoWpL5h)
+1. ~~[Achievement System](http://www.bittiger.io/classpage/t7zecYW24YRoWpL5h)~~
 2. [SlideShare: Achievement System Explained](http://www.slideshare.net/Leyart1/achievement-systems-explained)
 3. [Framework for Designing and Evaluating Game Achievement](http://www.slideshare.net/JuhoHamari/framework-for-designing-and-evaluating-game-achievements)
