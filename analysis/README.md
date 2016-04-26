@@ -52,3 +52,9 @@ Dynamic recommendation system
 5. Game Theory
 
 ## Evaluation
+
+# Resources
+
+## Scoring System
+
+1. [Achievement System](http://www.bittiger.io/classpage/t7zecYW24YRoWpL5h)
